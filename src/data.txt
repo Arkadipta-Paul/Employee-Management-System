@@ -1,0 +1,14 @@
+D,D4,EE,Hydrabad
+D,D1,CSE,Kolkata
+D,D2,IT,Kharagpur
+D,D3,ECE,Delhi
+E,W1,Manish,Worker,IT,9000
+E,W2,Akash,Worker,IT,10000
+E,L1,Suman,Leader,IT,20000
+E,L2,Rupesh,Leader,CSE,50000
+E,L3,Soham,Leader,ECE,15000
+E,L4,Rakesh,Leader,EE,12000
+P,P1,AI,CSE,L1
+P,P2,ML,IT,L1
+P,P3,WEB,ECE,L3
+P,P4,IOT,EE,L4
